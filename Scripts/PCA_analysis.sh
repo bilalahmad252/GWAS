@@ -46,5 +46,5 @@ plink2 \
     --threads 4 \
     --read-freq ${hild}/step3.acount \
     --score ${hild}/step3.eigenvec.allele 2 6 header-read no-mean-imputation variance-standardize \
-    --score-col-nums 7-15 \
+    --score-col-nums 7-16 \
     --out ${hild}/step4_projected
