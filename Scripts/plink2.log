@@ -1,0 +1,13 @@
+PLINK v2.00a6LM 64-bit Intel (18 Mar 2024)
+Options in effect:
+  --bfile /homes/bilala/BedTools/GWAS/Results/clean_data/clean_data
+  --keep /homes/bilala/BedTools/GWAS/PCA_data/step2.king.cutoff.in.id  
+
+Hostname: helios
+Working directory: /homes/bilala/BedTools/GWAS/Scripts
+Start time: Tue Apr  9 15:56:15 2024
+
+Warning: No output requested.  (Did you forget --make-bed/--make-[b]pgen?)
+Exiting.
+
+End time: Tue Apr  9 15:56:15 2024
